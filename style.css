@@ -1,0 +1,69 @@
+header{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    background-color: burlywood;
+    padding: 20px;
+    text-align: center;
+}
+.nav{
+    background-color: burlywood;
+    color: brown;
+    padding: 10px;
+    font-size: large;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color: brown;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    
+}
+li:hover{
+    background-color: blanchedalmond;
+}
+#about{
+    background-color: burlywood;
+    color: brown;
+    padding: 10px;
+}
+.container{
+    justify-content: space-around;
+    display: flex;
+    background-color: burlywood;
+    padding: 50px;
+    
+}
+.ok{
+    height: 100px;
+    width: 200px;
+    justify-content: space-around;
+    box-shadow: 10px 5px 2px black;
+    
+}
+.okn{
+    height: 100px;
+    width: 200px;
+    justify-content: space-around;
+    box-shadow: 10px 5px 2px black;
+}
+#faqs{
+    background-color: burlywood;
+    color: brown;
+    font-size: large;
+    padding: 10px;
+}
+#contact{
+    background-color: burlywood;
+    padding: 20px;
+    color: brown;
+    justify-content: space-around;
+}
